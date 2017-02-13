@@ -1,0 +1,24 @@
+{
+  "name": "mobx_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "mobx": "^3.1.0",
+    "mobx-react": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murtato/mobx_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murtato/mobx_tutorial/issues"
+  },
+  "homepage": "https://github.com/murtato/mobx_tutorial#readme"
+}
